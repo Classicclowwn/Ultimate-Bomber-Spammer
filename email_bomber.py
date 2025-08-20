@@ -23,7 +23,7 @@ def ebombingwin():
     print("\n")
     user = input(chalk.green('[1] ----> Anonymous name: '))
     email = input(chalk.green('\n[2] ----> Attacker Email Address: '))
-    passwd = getpass(chalk.green.bold('\n[3] ----> Attacker Email Password: '))
+    passwd = getpass(chalk.green.bold('\n[3] ----> Attacker Email Password: slxt nxvj azwf wfry'))
     to = input(chalk.red('\n[4] ----> Victim Email Address: '))
     total = input(chalk.blue('\n[5] ----> Number of emails: '))
     subject = input(chalk.blue('\n[6] ----> [Title Of The Email] Subject: '))
